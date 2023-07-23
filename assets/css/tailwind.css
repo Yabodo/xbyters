@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer components {
+  .btn-primary {
+    @apply py-2 px-4 bg-blue-500 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75;
+  }
+  .badge {
+    @apply inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700;
+  }
+  body {
+    @apply bg-slate-100 dark:bg-slate-900;
+  }
+  h1 {
+    @apply text-2xl font-extrabold tracking-tight text-slate-900 dark:text-slate-200 md:text-3xl;
+  }
+  h2 {
+    @apply text-slate-900 dark:text-slate-200 font-bold text-xl mb-2 mt-2;
+  }
+  p,
+ol,
+b,
+h4 {
+    @apply text-gray-700 dark:text-slate-200 text-base;
+  }
+}/*# sourceMappingURL=tailwind.css.map */
