@@ -6,7 +6,7 @@
       class="z-0 flex justify-center h-full -mx-4 overflow-hidden lg:pt-24 lg:pb-16 lg:pr-8 xl:pr-0 lg:w-1/2 lg:absolute lg:justify-end lg:bottom-0 lg:left-0 lg:items-center"
     >
       <img
-        src="https://kitwind.io/assets/kometa/laptop.png"
+        src="/laptop.png"
         class="animate__animated animate__slideInLeft object-cover object-right w-full h-auto lg:w-auto lg:h-full"
         alt=""
       />
