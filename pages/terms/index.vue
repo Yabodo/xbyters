@@ -1321,3 +1321,9 @@
     </div>
   </div>
 </template>
+
+<script setup>
+useHead({
+  title: "Terms of Service - xbyters",
+});
+</script>

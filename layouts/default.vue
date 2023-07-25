@@ -7,5 +7,6 @@
     </div>
 
     <Footerr />
+    <CookieNoticer />
   </div>
 </template>

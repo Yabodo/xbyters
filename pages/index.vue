@@ -14,7 +14,7 @@ definePageMeta({
   layout: "indexx",
 });
 useHead({
-  title: "xbyters",
+  title: "Home - xbyters",
   meta: [
     {
       name: "description",

@@ -4,6 +4,7 @@
     <slot />
 
     <Footerr />
+    <CookieNoticer />
   </div>
 </template>
 

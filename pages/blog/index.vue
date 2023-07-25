@@ -2,6 +2,9 @@
 const { data } = await useAsyncData("blog", () =>
   queryContent("/").only(["title", "description", "date", "_path"]).find()
 );
+useHead({
+  title: "Blog - xbyters",
+});
 </script>
 
 <template>
