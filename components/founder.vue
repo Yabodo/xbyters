@@ -2,15 +2,21 @@
   <div
     class="px-4 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20"
   >
-    <div class="">
+    <div class="flex flex-col">
       <h2
-        class="font-sans text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-none"
+        class="mx-auto md:mx-0 font-sans text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-none"
       >
-        Xbyters' Pledge
+        xbyters' Pledge
       </h2>
-      <span class="inline-block w-10 h-1 rounded-full bg-blue-500 mx-1"></span>
-      <span class="inline-block w-3 h-1 rounded-full bg-blue-500 mx-1"></span>
-      <span class="inline-block w-1 h-1 rounded-full bg-blue-500 mx-1"></span>
+      <span class="mx-auto md:mx-0">
+        <span class="inline-block w-1 h-1 rounded-full bg-blue-500 mx-1"></span>
+        <span class="inline-block w-3 h-1 rounded-full bg-blue-500 mx-1"></span>
+        <span
+          class="inline-block w-10 h-1 rounded-full bg-blue-500 mx-1"
+        ></span>
+        <span class="inline-block w-3 h-1 rounded-full bg-blue-500 mx-1"></span>
+        <span class="inline-block w-1 h-1 rounded-full bg-blue-500 mx-1"></span>
+      </span>
     </div>
     <figure class="md:flex p-8 md:p-0">
       <img
