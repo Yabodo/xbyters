@@ -2,6 +2,11 @@
   <div
     class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20"
   >
+    <div class="">
+      <span class="inline-block w-10 h-1 rounded-full bg-blue-500 mx-1"></span>
+      <span class="inline-block w-3 h-1 rounded-full bg-blue-500 mx-1"></span>
+      <span class="inline-block w-1 h-1 rounded-full bg-blue-500 mx-1"></span>
+    </div>
     <div class="flex flex-col mb-6 lg:justify-between lg:flex-row md:mb-8">
       <h2
         class="max-w-lg mb-5 font-sans text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl sm:leading-none md:mb-6 group"

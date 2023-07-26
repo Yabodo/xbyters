@@ -470,5 +470,10 @@
         </p>
       </div>
     </div>
+    <div>
+      <span class="inline-block w-10 h-1 rounded-full bg-blue-500 mx-1"></span>
+      <span class="inline-block w-3 h-1 rounded-full bg-blue-500 mx-1"></span>
+      <span class="inline-block w-1 h-1 rounded-full bg-blue-500 mx-1"></span>
+    </div>
   </div>
 </template>

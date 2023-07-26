@@ -23,14 +23,14 @@
             business
             <span class="inline-block text-deep-purple-accent-400">online</span>
           </h2>
-          <p class="text-base text-gray-700 dark:text-gray-200 md:text-lg">
+          <p class="text-gray-700 dark:text-gray-200">
             We stay up-to-date with the latest trends and technologies in web
             development. Our team leverages cutting-edge tools, frameworks, and
             methodologies to deliver innovative and future-proof solutions. By
             working with us, you can benefit from the latest advancements in the
             industry.
           </p>
-          <div class="mt-4">
+          <div class="mt-8">
             <a
               href="https://calendly.com/xbyters/30min"
               type="submit"

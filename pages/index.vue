@@ -3,6 +3,7 @@
   <div>
     <Frameworks />
     <gallery />
+    <Founder />
     <six-features />
     <blog-teaser />
     <cat />

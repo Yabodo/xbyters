@@ -62,7 +62,7 @@
               >destination</span
             >
           </h2>
-          <p class="text-base text-gray-700 dark:text-gray-200 md:text-lg">
+          <p class="text-gray-700 dark:text-gray-200">
             Stay tuned to our blog as we regularly update it with fresh content,
             keeping you informed about the ever-changing digital landscape.
             Whether you're a business owner, marketer, or developer, our blog is
@@ -74,7 +74,7 @@
           <NuxtLink
             to="/blog"
             aria-label=""
-            class="inline-flex items-center font-semibold transition-colors duration-200 text-blue-800 hover:text-blue-900 dark:text-slate-100 dark:hover:text-slate-200"
+            class="inline-flex items-center font-semibold transition-colors duration-200 text-blue-800 hover:text-blue-900 dark:text-blue-500 dark:hover:text-blue-400"
           >
             Read blog
             <svg
