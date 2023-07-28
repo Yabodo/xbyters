@@ -17,13 +17,13 @@
       <div class="mb-16 lg:pr-5 lg:max-w-lg lg:mb-0">
         <div class="animate__animated animate__slideInRight max-w-xl mb-6">
           <h2
-            class="max-w-lg mb-6 font-sans text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-200 sm:text-4xl sm:leading-none"
+            class="max-w-lg mb-6 font-sans text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-none"
           >
             We will bring your<br class="hidden md:block" />
             business
             <span class="inline-block text-deep-purple-accent-400">online</span>
           </h2>
-          <p class="text-gray-700 dark:text-gray-200">
+          <p class="">
             We stay up-to-date with the latest trends and technologies in web
             development. Our team leverages cutting-edge tools, frameworks, and
             methodologies to deliver innovative and future-proof solutions. By
@@ -31,13 +31,13 @@
             industry.
           </p>
           <div class="mt-8">
-            <a
-              href="https://calendly.com/xbyters/30min"
+            <NuxtLink
+              to="/contact"
               type="submit"
               class="inline-flex items-center justify-center h-12 px-6 mr-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md bg-blue-700 hover:bg-blue-500 focus:shadow-outline focus:outline-none"
             >
               Book a call
-            </a>
+            </NuxtLink>
           </div>
         </div>
       </div>

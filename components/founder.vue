@@ -6,11 +6,15 @@
       <h2
         class="mx-auto md:mx-0 font-sans text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-none"
       >
-        xbyters' Pledge
+        Founder's pledge
       </h2>
       <span class="mx-auto md:mx-0">
-        <span class="inline-block w-1 h-1 rounded-full bg-blue-500 mx-1"></span>
-        <span class="inline-block w-3 h-1 rounded-full bg-blue-500 mx-1"></span>
+        <span
+          class="inline-block md:hidden w-1 h-1 rounded-full bg-blue-500 mx-1"
+        ></span>
+        <span
+          class="inline-block md:hidden w-3 h-1 rounded-full bg-blue-500 mx-1"
+        ></span>
         <span
           class="inline-block w-10 h-1 rounded-full bg-blue-500 mx-1"
         ></span>
@@ -33,7 +37,7 @@
             to craft digital experiences that truly resonate with your unique
             vision. Our dedicated team of professionals is entirely focused on
             enhancing your online presence, because when you succeed, we do too.
-            Thank you for choosing Xbyters. Let's create something exceptional
+            Thank you for choosing Xbyters. Let's build something exceptional
             together!"
           </p>
         </blockquote>

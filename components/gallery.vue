@@ -17,9 +17,6 @@
           Don't gamble, see results <br class="hidden md:block" />
           before commitment
         </span>
-        <div
-          class="h-1 ml-auto duration-300 origin-left transform bg-deep-purple-accent-400 scale-x-30 group-hover:scale-x-100"
-        ></div>
       </h2>
       <p class="text-gray-700 dark:text-gray-200 lg:text-sm lg:max-w-md">
         We offer a comprehensive range of web development services, including
@@ -35,7 +32,7 @@
     >
       <div aria-label="View Item">
         <div
-          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl"
+          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg"
         >
           <img
             class="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -46,7 +43,7 @@
       </div>
       <div aria-label="View Item">
         <div
-          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl"
+          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg"
         >
           <img
             class="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -57,7 +54,7 @@
       </div>
       <div aria-label="View Item">
         <div
-          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl"
+          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg"
         >
           <img
             class="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -68,7 +65,7 @@
       </div>
       <div aria-label="View Item">
         <div
-          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl"
+          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg"
         >
           <img
             class="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -79,7 +76,7 @@
       </div>
       <div aria-label="View Item">
         <div
-          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl"
+          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg"
         >
           <img
             class="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -90,7 +87,7 @@
       </div>
       <div aria-label="View Item">
         <div
-          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl"
+          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg"
         >
           <img
             class="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -101,7 +98,7 @@
       </div>
       <div aria-label="View Item">
         <div
-          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl"
+          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg"
         >
           <img
             class="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -112,7 +109,7 @@
       </div>
       <div aria-label="View Item">
         <div
-          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl"
+          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg"
         >
           <img
             class="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -123,7 +120,7 @@
       </div>
       <div aria-label="View Item">
         <div
-          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl"
+          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg"
         >
           <img
             class="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -134,7 +131,7 @@
       </div>
       <div aria-label="View Item">
         <div
-          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl"
+          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg"
         >
           <img
             class="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -145,7 +142,7 @@
       </div>
       <div aria-label="View Item">
         <div
-          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl"
+          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg"
         >
           <img
             class="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -156,7 +153,7 @@
       </div>
       <div aria-label="View Item">
         <div
-          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl"
+          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg"
         >
           <img
             class="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -167,7 +164,7 @@
       </div>
       <div aria-label="View Item">
         <div
-          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl"
+          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg"
         >
           <img
             class="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -178,7 +175,7 @@
       </div>
       <div aria-label="View Item">
         <div
-          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl"
+          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg"
         >
           <img
             class="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -189,7 +186,7 @@
       </div>
       <div aria-label="View Item">
         <div
-          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl"
+          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg"
         >
           <img
             class="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -200,7 +197,7 @@
       </div>
       <div aria-label="View Item">
         <div
-          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl"
+          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg"
         >
           <img
             class="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -211,7 +208,7 @@
       </div>
       <div aria-label="View Item">
         <div
-          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl"
+          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg"
         >
           <img
             class="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -222,7 +219,7 @@
       </div>
       <div aria-label="View Item">
         <div
-          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl"
+          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg"
         >
           <img
             class="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -233,7 +230,7 @@
       </div>
       <div aria-label="View Item">
         <div
-          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl"
+          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg"
         >
           <img
             class="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -244,7 +241,7 @@
       </div>
       <div aria-label="View Item">
         <div
-          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl"
+          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg"
         >
           <img
             class="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -255,7 +252,7 @@
       </div>
       <div aria-label="View Item">
         <div
-          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl"
+          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg"
         >
           <img
             class="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -266,7 +263,7 @@
       </div>
       <div aria-label="View Item">
         <div
-          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl"
+          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg"
         >
           <img
             class="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -277,7 +274,7 @@
       </div>
       <div aria-label="View Item">
         <div
-          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl"
+          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg"
         >
           <img
             class="object-cover w-full h-56 md:h-64 xl:h-80"
@@ -288,7 +285,7 @@
       </div>
       <div aria-label="View Item">
         <div
-          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg hover:-translate-y-2 hover:shadow-2xl"
+          class="relative overflow-hidden transition duration-200 transform rounded shadow-lg"
         >
           <img
             class="object-cover w-full h-56 md:h-64 xl:h-80"

@@ -22,8 +22,8 @@
             </span>
             <p class="ml-3 truncate font-medium text-slate-800 dark:text-white">
               <span
-                >This website uses analytical cookies to improve user
-                experience!</span
+                >This website uses performance and analytical cookies to improve
+                user experience!</span
               >
             </p>
           </div>

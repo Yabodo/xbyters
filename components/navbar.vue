@@ -93,7 +93,7 @@ const routeName = computed(() => {
 
       <div
         :class="routeName == 'index' ? 'border-blue-500' : 'border-transparent'"
-        class="none border-b-2 hover:text-gray-800 transition-colors duration-300 transform dark:hover:text-gray-200 hover:border-blue-500 mx-1.5 sm:mx-6"
+        class="none border-b-2 hover:text-gray-800 transition-colors duration-300 transform dark:hover:text-gray-200 hover:border-blue-500 mx-1.5 sm:mx-6 cursor-pointer"
       >
         <NuxtLink to="/">Home</NuxtLink>
       </div>
@@ -104,15 +104,15 @@ const routeName = computed(() => {
             ? 'border-blue-500'
             : 'border-transparent'
         "
-        class="border-b-2 hover:text-gray-800 transition-colors duration-300 transform dark:hover:text-gray-200 hover:border-blue-500 mx-1.5 sm:mx-6"
+        class="border-b-2 hover:text-gray-800 transition-colors duration-300 transform dark:hover:text-gray-200 hover:border-blue-500 mx-1.5 sm:mx-6 cursor-pointer"
       >
         <NuxtLink to="/blog">Blog</NuxtLink>
       </div>
 
-      <a
-        href="https://calendly.com/xbyters/30min"
-        class="border-b-2 border-transparent transition-colors duration-300 transform text-white bg-blue-700 hover:bg-blue-500 px-2.5 py-1 rounded mx-1.5 sm:mx-6"
-        >Book a call</a
+      <NuxtLink
+        href="/contact"
+        class="border-b-2 border-transparent transition-colors duration-300 transform text-white bg-blue-700 hover:bg-blue-500 px-2.5 py-1 rounded mx-1.5 sm:mx-6 cursor-pointer"
+        >Book a call</NuxtLink
       >
     </div>
   </nav>
