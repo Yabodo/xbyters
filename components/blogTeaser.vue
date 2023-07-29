@@ -74,7 +74,7 @@
           <NuxtLink
             to="/blog"
             aria-label=""
-            class="inline-flex items-center font-semibold transition-colors duration-200 text-blue-800 hover:text-blue-900 dark:text-blue-500 dark:hover:text-blue-400"
+            class="gtm-blogTeaser-blog inline-flex items-center font-semibold transition-colors duration-200 text-blue-800 hover:text-blue-900 dark:text-blue-500 dark:hover:text-blue-400"
           >
             Read blog
             <svg
