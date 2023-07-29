@@ -18,7 +18,9 @@
     "typescript": "^5.1.6"
   },
   "dependencies": {
+    "@lottiefiles/lottie-interactivity": "^1.6.2",
     "animate.css": "^4.1.1",
+    "lottie-web": "^5.12.2",
     "sass": "^1.63.6"
   }
 }
