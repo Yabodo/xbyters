@@ -1,5 +1,13 @@
 <template>
-  <SoftwareTypography />
+  <Hero />
+  <div>
+    <Frameworks />
+    <gallery />
+    <Founder />
+    <six-features />
+    <blog-teaser />
+    <cat />
+  </div>
 </template>
 <script setup>
 // This will work in both `<script setup>` and `<script>`
@@ -7,7 +15,7 @@ definePageMeta({
   layout: "indexx",
 });
 useHead({
-  title: "Home - xbyters",
+  title: "Websites - xbyters",
   meta: [
     {
       name: "description",
