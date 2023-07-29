@@ -13,6 +13,7 @@
     "@nuxt/devtools": "latest",
     "@nuxtjs/tailwindcss": "^6.8.0",
     "@types/node": "^18.16.19",
+    "@zadigetvoltaire/nuxt-gtm": "^0.0.13",
     "nuxt": "^3.6.2",
     "nuxt-gtag": "^0.5.7",
     "typescript": "^5.1.6"

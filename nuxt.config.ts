@@ -1,7 +1,12 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  modules: ["@nuxtjs/tailwindcss", "@nuxt/content", "nuxt-gtag"],
+  modules: [
+    "@nuxtjs/tailwindcss",
+    "@nuxt/content",
+    "nuxt-gtag",
+    "@zadigetvoltaire/nuxt-gtm",
+  ],
   // Defaults options
   tailwindcss: {
     cssPath: "~/assets/css/tailwind.css",
@@ -15,6 +20,9 @@ export default defineNuxtConfig({
   gtag: {
     id: "G-RTEESK2VV0",
     initialConsent: true,
+  },
+  gtm: {
+    id: "GTM-PSMDBKMZ",
   },
   css: ["animate.css/animate.min.css"],
 });
