@@ -111,7 +111,7 @@ const routeName = computed(() => {
 
       <NuxtLink
         href="/contact"
-        class="border-b-2 border-transparent transition-colors duration-300 transform text-white bg-blue-700 hover:bg-blue-500 px-2.5 py-1 rounded mx-1.5 sm:mx-6 cursor-pointer"
+        class="gtm-navbar-contact border-b-2 border-transparent transition-colors duration-300 transform text-white bg-blue-700 hover:bg-blue-500 px-2.5 py-1 rounded mx-1.5 sm:mx-6 cursor-pointer"
         >Book a call</NuxtLink
       >
     </div>
