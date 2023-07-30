@@ -6,6 +6,7 @@
     <Founder />
     <six-features />
     <blog-teaser />
+    <testimonials />
     <cat />
   </div>
 </template>
