@@ -1,10 +1,10 @@
 <template>
-  <div class="min-w-screen min-h-screen flex items-center justify-center">
-    <div class="w-full px-5 py-16 md:py-24 text-gray-800">
+  <div class="min-w-screen my-12 flex items-center justify-center">
+    <div class="w-full px-5 text-gray-800">
       <div class="w-full max-w-6xl mx-auto">
         <div class="text-center max-w-xl mx-auto">
           <h1
-            class="text-6xl md:text-7xl font-bold mb-5 text-gray-900 dark:text-gray-100"
+            class="text-4xl md:text-5xl font-bold mb-5 text-gray-900 dark:text-gray-100"
           >
             What people <br />are saying.
           </h1>
