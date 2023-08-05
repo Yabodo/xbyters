@@ -2,6 +2,7 @@
   <aiHero />
   <div>
     <aiFrameworks />
+    <aiChat />
     <aiSix-features />
     <aiFounder />
     <aiBlog-teaser />
