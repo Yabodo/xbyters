@@ -26,7 +26,12 @@
   p,
 ol,
 b,
-h4 {
+h4,
+h3,
+li {
     @apply text-gray-700 dark:text-slate-200 text-base;
+  }
+  ul {
+    @apply list-disc;
   }
 }/*# sourceMappingURL=tailwind.css.map */

@@ -372,10 +372,10 @@
         >
           Development
         </p>
-        <p class="mr-1 text-gray-800 dark:text-gray-200">Wordpress Websites</p>
-        <p class="mr-1 text-gray-800 dark:text-gray-200">Webflow Websites</p>
+        <p class="mr-1 text-gray-800 dark:text-gray-200">Corporate Websites</p>
+        <p class="mr-1 text-gray-800 dark:text-gray-200">Web Applications</p>
         <p class="mr-1 text-gray-800 dark:text-gray-200">Shopify Stores</p>
-        <p class="mr-1 text-gray-800 dark:text-gray-200">Vue Applications</p>
+        <p class="mr-1 text-gray-800 dark:text-gray-200">Custom GPT Chatbots</p>
       </div>
     </div>
     <div
@@ -384,24 +384,24 @@
       <p class="text-sm text-gray-600 dark:text-gray-400">
         © Copyright 2023 CHOICISM INVESTMENTS OÜ. All rights reserved.
       </p>
-      <ul
+      <div
         class="flex flex-col mb-3 space-y-2 lg:mb-0 sm:space-y-0 sm:space-x-5 sm:flex-row"
       >
-        <li>
+        <div>
           <NuxtLink
             to="/privacy"
             class="text-sm text-gray-600 transition-colors duration-300 dark:text-gray-400"
             >Privacy Policy</NuxtLink
           >
-        </li>
-        <li>
+        </div>
+        <div>
           <NuxtLink
             to="/terms"
             class="text-sm text-gray-600 transition-colors duration-300 dark:text-gray-400"
             >Terms & Conditions</NuxtLink
           >
-        </li>
-      </ul>
+        </div>
+      </div>
     </div>
   </div>
 </template>

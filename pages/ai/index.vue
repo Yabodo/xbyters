@@ -1,13 +1,11 @@
 <template>
-  <websitesHero />
+  <aiHero />
   <div>
-    <websitesFrameworks />
-    <websitesGallery />
-    <websitesFounder />
-    <websitesSix-features />
-    <websitesBlog-teaser />
-    <websitesTestimonials />
-    <WebsitesCat />
+    <aiFrameworks />
+    <aiSix-features />
+    <aiFounder />
+    <aiBlog-teaser />
+    <aiCat />
   </div>
 </template>
 <script setup>
@@ -16,7 +14,7 @@ definePageMeta({
   layout: "indexx",
 });
 useHead({
-  title: "Websites - xbyters",
+  title: "AI assistants - xbyters",
   meta: [
     {
       name: "description",
