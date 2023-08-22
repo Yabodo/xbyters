@@ -17,11 +17,9 @@
         </div>
         <div class="lg:w-1/2">
           <p class="mb-4 text-base text-gray-700 dark:text-slate-200">
-            Ready to transform your business with cutting-edge AI chatbot
-            solutions? Don't wait another day. Book a call with us to explore
-            how xbyters can help revolutionize your customer interactions and
-            streamline operations. Let's begin your journey to AI-powered
-            success today!
+            We have everything you need to transform your business with AI, from
+            custom chatbots to autonomous agents. Schedule a call now so we
+            could discuss your needs!
           </p>
           <div class="pt-1">
             <NuxtLink

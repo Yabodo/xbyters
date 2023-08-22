@@ -15,7 +15,7 @@
           <h2
             class="text-center md:text-left max-w-lg mb-6 font-sans text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-none"
           >
-            We will bring your business online so you don't have to.
+            We build websites!
           </h2>
           <p class="text-center md:text-left">
             We stay up-to-date with the latest trends and technologies in web

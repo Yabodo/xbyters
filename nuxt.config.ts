@@ -7,6 +7,7 @@ export default defineNuxtConfig({
     "nuxt-gtag",
     "@zadigetvoltaire/nuxt-gtm",
     "nuxt-headlessui",
+    "@nuxt/image",
   ],
   // Defaults options
   tailwindcss: {

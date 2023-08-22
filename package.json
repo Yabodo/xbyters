@@ -20,7 +20,9 @@
   },
   "dependencies": {
     "@lottiefiles/lottie-interactivity": "^1.6.2",
+    "@nuxt/image": "^1.0.0-rc.1",
     "animate.css": "^4.1.1",
+    "axios": "^1.4.0",
     "lottie-web": "^5.12.2",
     "nuxt-headlessui": "^1.1.4",
     "sass": "^1.63.6"

@@ -15,18 +15,16 @@
           <h2
             class="text-center md:text-left max-w-lg mb-6 font-sans text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-none"
           >
-            Limited knowledge chatbots,
-            <span class="text-blue-500 dark:text-blue-400">farewell</span>!
+            Simplify your work with AI
           </h2>
           <p class="text-center md:text-left">
-            In an age where business efficiency and personalized customer
-            interactions are paramount, xbyters offers bespoke AI chatbot
-            solutions. Our custom-built chatbots not only streamline operations
-            and reduce human error but also deliver engaging, personalized
-            customer experiences round-the-clock. Don't let your business miss
-            the chance to create a future-ready, customer-centric brand. Connect
-            with us today and learn more about how our tailor-made AI chatbots
-            can revolutionize your business operations!
+            The release of LLM chat models like ChatGPT brought well deserved
+            attention to generative AI models. We build custom-made AI solutions
+            to not only streamline operations and reduce human error but also
+            deliver engaging, personalized customer experiences round-the-clock.
+            Don't let your business miss the chance to create a future-ready,
+            customer-centric brand. Connect with us today and learn more about
+            how our AI solutions can revolutionize your business operations!
           </p>
           <div class="mt-8 flex justify-center md:justify-start">
             <NuxtLink
@@ -34,7 +32,7 @@
               type="submit"
               class="gtm-hero-contact inline-flex items-center justify-center h-12 px-6 mr-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md bg-blue-700 hover:bg-blue-500 focus:shadow-outline focus:outline-none"
             >
-              Book a call
+              Book a free call
             </NuxtLink>
           </div>
         </div>
