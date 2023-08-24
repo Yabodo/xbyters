@@ -9,13 +9,7 @@
     @apply inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700;
   }
   body {
-    @apply bg-slate-100 dark:bg-slate-900;
-  }
-  body {
-    @apply dark:bg-gradient-to-r dark:from-zinc-900 dark:via-transparent dark:to-stone-900;
-  }
-  body {
-    @apply bg-gradient-to-r from-sky-100 via-transparent to-blue-100;
+    @apply bg-slate-100 dark:bg-slate-900 dark:bg-gradient-to-r dark:from-zinc-900 dark:via-transparent dark:to-stone-900 bg-gradient-to-r from-sky-100 via-transparent to-blue-100;
   }
   h1 {
     @apply text-2xl font-extrabold tracking-tight text-slate-900 dark:text-slate-200 md:text-3xl;
