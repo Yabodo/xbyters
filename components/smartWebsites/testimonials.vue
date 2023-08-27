@@ -6,8 +6,11 @@
           <h1
             class="text-4xl md:text-5xl font-bold mb-5 text-gray-900 dark:text-gray-100"
           >
-            Hear from <br />Our Happy Clients!
+            What people <br />are saying.
           </h1>
+          <h3 class="text-xl mb-5 font-light text-gray-900 dark:text-gray-100">
+            A few words by our wonderful clients!
+          </h3>
           <div class="text-center mb-10">
             <span
               class="inline-block w-1 h-1 rounded-full bg-blue-500 mx-1"
@@ -44,9 +47,12 @@
                   <span
                     class="text-lg leading-none italic font-bold text-gray-400 mr-1"
                     >"</span
-                  >xbyters was amazing to work with. They listened, knew their
-                  stuff, and gave us a website that went beyond our dreams. So
-                  thankful for their top-notch work!<span
+                  >Working with xbyters has been a breath of fresh air. They're
+                  responsive, knowledgeable, and they truly care about
+                  delivering a product that not only meets but exceeds
+                  expectations. The website they created for us is more than we
+                  could have hoped for, and we're so thankful for their
+                  exceptional work.<span
                     class="text-lg leading-none italic font-bold text-gray-400 ml-1"
                     >"</span
                   >
@@ -73,9 +79,10 @@
                   <span
                     class="text-lg leading-none italic font-bold text-gray-400 mr-1"
                     >"</span
-                  >I'm so pleased with my order! The design is just wow. They
-                  really pay attention to the little things. I'm looking forward
-                  to our next project together. Big thanks!<span
+                  >I'm very happy with my order, the landing page design looks
+                  fantastic! Superb design expertise and great attention to
+                  detail overall. I am definitely interested in working with you
+                  again on future projects. Thanks for the excellent work!<span
                     class="text-lg leading-none italic font-bold text-gray-400 ml-1"
                     >"</span
                   >
@@ -100,10 +107,11 @@
                   <span
                     class="text-lg leading-none italic font-bold text-gray-400 mr-1"
                     >"</span
-                  >Need a creative and trustworthy web designer? Choose xbyters.
-                  They turned our rough ideas into a stunning website. Our
-                  customers love it, and that speaks volumes about their
-                  skills.<span
+                  >If you're looking for a reliable, creative, and skilled web
+                  designer, look no further than xbyters. They were able to take
+                  our vague ideas and transform them into a beautifully designed
+                  and effective website. The positive feedback we've received
+                  from our customers is a testament to their talent.<span
                     class="text-lg leading-none italic font-bold text-gray-400 ml-1"
                     >"</span
                   >

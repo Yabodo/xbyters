@@ -51,7 +51,8 @@
           Top talent
         </h6>
         <p class="mb-3 text-sm text-gray-800 dark:text-gray-200">
-          Our skilled web team is here to understand and meet your needs.
+          Our dedicated team of talented web developers will work closely with
+          you to understand your goals.
         </p>
       </div>
       <div>
@@ -97,10 +98,11 @@
         <h6
           class="mb-2 font-semibold leading-5 text-gray-800 dark:text-gray-200"
         >
-          Marketing Pros
+          Marketing Veterans
         </h6>
         <p class="mb-3 text-sm text-gray-800 dark:text-gray-200">
-          We get how ads work, so we make sure your website is ad-friendly.
+          With a background in marketing, we know the importance of ad friendly
+          websites.
         </p>
       </div>
       <div>
@@ -238,10 +240,11 @@
         <h6
           class="mb-2 font-semibold leading-5 text-gray-800 dark:text-gray-200"
         >
-          Grow with Us
+          Scalable solutions
         </h6>
         <p class="mb-3 text-sm text-gray-800 dark:text-gray-200">
-          Want to get bigger? With us, growth is easy and fun.
+          Find success and feel like expanding? With us it’s a pleasure not an
+          issue.
         </p>
       </div>
       <div>
@@ -335,10 +338,11 @@
         <h6
           class="mb-2 font-semibold leading-5 text-gray-800 dark:text-gray-200"
         >
-          Clear Costs
+          Transparent pricing
         </h6>
         <p class="mb-3 text-sm text-gray-800 dark:text-gray-200">
-          No surprise prices. We match the cost to your specific project.
+          One-size-fits-all pricing doesn't work. Our solutions are tailored to
+          your projects individually.
         </p>
       </div>
       <div>
@@ -396,10 +400,11 @@
         <h6
           class="mb-2 font-semibold leading-5 text-gray-800 dark:text-gray-200"
         >
-          Looks Great
+          Aesthetically Pleasing
         </h6>
         <p class="mb-3 text-sm text-gray-800 dark:text-gray-200">
-          We make sure your website looks amazing and different from others.
+          We pay attention to every detail to ensure that your website stands
+          out from the competition.
         </p>
       </div>
       <div>
@@ -457,10 +462,11 @@
         <h6
           class="mb-2 font-semibold leading-5 text-gray-800 dark:text-gray-200"
         >
-          Safe & Secure
+          Enterprise ready
         </h6>
         <p class="mb-3 text-sm text-gray-800 dark:text-gray-200">
-          We keep your website safe, so you don't have to worry.
+          We stay proactive in maintaining the security of your website,
+          minimizing the risk of vulnerabilities.
         </p>
       </div>
     </div>

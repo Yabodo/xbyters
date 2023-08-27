@@ -15,13 +15,14 @@
           <h2
             class="text-center md:text-left max-w-lg mb-6 font-sans text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-none"
           >
-            Website Dreams to Life!
+            We build websites!
           </h2>
           <p class="text-center md:text-left">
-            Our team knows about the newest stuff on the internet. We use the
-            coolest tools to make your website great. If you work with us,
-            you'll get the best and newest features. Let us handle your website
-            for you!
+            We stay up-to-date with the latest trends and technologies in web
+            development. Our team leverages cutting-edge tools, frameworks, and
+            methodologies to deliver innovative and future-proof solutions. By
+            working with us, you can benefit from the latest advancements in the
+            industry. Take your website off your plate!
           </p>
           <div class="mt-8 flex justify-center md:justify-start">
             <NuxtLink

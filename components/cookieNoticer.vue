@@ -3,7 +3,7 @@
     <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
       <div class="rounded-lg bg-white dark:bg-slate-800 p-2 shadow-lg sm:p-3">
         <div class="flex flex-wrap items-center justify-between">
-          <div class="flex w-0 flex-1 items-center">
+          <div class="flex w-0 flex-1 items-center p-2 sm:p-0">
             <span class="flex rounded-lg bg-blue-800 p-2">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -20,7 +20,7 @@
                 ></path>
               </svg>
             </span>
-            <p class="ml-3 truncate font-medium text-slate-800 dark:text-white">
+            <p class="ml-3 font-medium text-slate-800 dark:text-white">
               <span
                 >This website uses performance and analytical cookies to improve
                 user experience!</span

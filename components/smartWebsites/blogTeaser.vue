@@ -56,12 +56,18 @@
           <h2
             class="max-w-lg mb-6 font-sans text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-200 sm:text-4xl sm:leading-none"
           >
-            Stay Updated with Our Blog!
+            Latest insights<br class="hidden md:block" />
+            and industry trends
+            <span class="inline-block text-deep-purple-accent-400"
+              >destination</span
+            >
           </h2>
           <p class="text-gray-700 dark:text-gray-200">
-            We regularly add new info about the online world. Whether you're a
-            business person, someone in marketing, or a website maker, our blog
-            helps you keep up and do well online.
+            Stay tuned to our blog as we regularly update it with fresh content,
+            keeping you informed about the ever-changing digital landscape.
+            Whether you're a business owner, marketer, or developer, our blog is
+            a valuable resource to help you stay ahead of the curve and succeed
+            in the digital realm.
           </p>
         </div>
         <div>

@@ -14,15 +14,17 @@
         <span
           class="inline-block mb-1 sm:mb-4 text-gray-900 dark:text-gray-100"
         >
-          See results first, <br class="hidden md:block" />
-          then decide!
+          Don't gamble, see results <br class="hidden md:block" />
+          before commitment
         </span>
       </h2>
       <p class="text-gray-700 dark:text-gray-200 lg:text-sm lg:max-w-md">
-        We do everything for websites - from making them to taking care of them.
-        If you pick us, you get everything in one place. This means we work
-        together well, talk clearly, and make your website awesome. Check out
-        our cool websites!
+        We offer a comprehensive range of web development services, including
+        website design, development, hosting, maintenance, and more. By choosing
+        us, you gain access to a one-stop-shop for all your digital needs. This
+        streamlined approach ensures seamless coordination, efficient
+        communication, and a cohesive online presence. Just look at those
+        beauties...
       </p>
     </div>
     <div
