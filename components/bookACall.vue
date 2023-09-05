@@ -1,5 +1,5 @@
 <template>
-  <div class="mt-8 flex justify-center md:justify-start">
+  <div class="mt-8 flex justify-center md:justify-center">
     <NuxtLink
       to="/contact"
       type="submit"
