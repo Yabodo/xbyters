@@ -1,5 +1,6 @@
 <template>
   <SoftwareTypography />
+  <BookACall />
 </template>
 <script setup>
 // This will work in both `<script setup>` and `<script>`
