@@ -20,8 +20,8 @@ export default defineComponent({
       prices: [
         {
           id: 1,
-          product: "As independent contractor",
-          description: "Estonia, Tartu",
+          product: "",
+          description: "Europe, Estonia, Tartu",
           price: "€20/hour",
         },
         // ... other product prices can be added in the same structure
