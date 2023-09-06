@@ -1,6 +1,8 @@
 <template>
-  <SoftwareTypography />
-  <BookACall />
+  <div class="">
+    <SoftwareTypography />
+    <BookACall />
+  </div>
 </template>
 <script setup>
 // This will work in both `<script setup>` and `<script>`
