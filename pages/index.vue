@@ -1,7 +1,9 @@
 <template>
-  <div class="">
-    <SoftwareTypography />
-    <BookACall />
+  <div>
+    <IndexCycle class="my-5" />
+    <SoftwareTypography class="my-5 mb-20" />
+    <IndexCompanies class="my-10" />
+    <IndexCta class="my-10 pt-5 h-96 flex flex-col justify-center" />
   </div>
 </template>
 <script setup>

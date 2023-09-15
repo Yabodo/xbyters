@@ -12,7 +12,7 @@ const routeName = computed(() => {
     <div
       class="container flex items-center justify-center p-6 mx-auto text-gray-600 dark:text-gray-300"
     >
-      <div class="hidden dark:block">
+      <NuxtLink to="/" class="hidden dark:block">
         <svg
           class="w-8 h-auto mx-8"
           width="202"
@@ -50,8 +50,8 @@ const routeName = computed(() => {
             fill="#932517"
           />
         </svg>
-      </div>
-      <div class="block dark:hidden">
+      </NuxtLink>
+      <NuxtLink to="/" class="block dark:hidden">
         <svg
           class="w-8 h-auto mx-8"
           width="202"
@@ -89,7 +89,7 @@ const routeName = computed(() => {
             fill="#932517"
           />
         </svg>
-      </div>
+      </NuxtLink>
 
       <div
         :class="routeName == 'index' ? 'border-blue-500' : 'border-transparent'"
