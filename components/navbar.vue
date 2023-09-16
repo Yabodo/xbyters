@@ -1,10 +1,5 @@
 <script setup lang="ts">
 const route = useRoute();
-
-// When accessing /posts/1, route.params.id will be 1
-const routeName = computed(() => {
-  return route.name;
-});
 </script>
 
 <template>
@@ -92,7 +87,9 @@ const routeName = computed(() => {
       </NuxtLink>
 
       <div
-        :class="routeName == 'index' ? 'border-blue-500' : 'border-transparent'"
+        :class="
+          route.name == 'index' ? 'border-blue-500' : 'border-transparent'
+        "
         class="none border-b-2 hover:text-gray-800 transition-colors duration-300 transform dark:hover:text-gray-200 hover:border-blue-500 mx-1.5 sm:mx-6 cursor-pointer"
       >
         <NuxtLink to="/">Home</NuxtLink>
@@ -100,7 +97,7 @@ const routeName = computed(() => {
 
       <div
         :class="
-          ['blog-slug', 'blog'].includes(routeName)
+          ['blog-slug', 'blog'].includes(route.name?.toString() || '')
             ? 'border-blue-500'
             : 'border-transparent'
         "

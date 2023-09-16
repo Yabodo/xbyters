@@ -39,6 +39,7 @@
 </template>
 
 <script setup lang="ts">
+import { ref } from "vue";
 const activeSection = ref(null);
 const title = ref("Software Lifecycle Unveiled");
 const content = ref("From Ideation to Iteration: A Journey Through Creation");
