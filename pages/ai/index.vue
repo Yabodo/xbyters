@@ -2,7 +2,7 @@
   <aiHero />
   <div>
     <aiFrameworks />
-    <aiChat />
+    <aiTypeCards class="mb-12" />
     <aiSix-features />
     <aiFounder />
     <aiBlog-teaser />
