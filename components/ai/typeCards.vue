@@ -105,7 +105,7 @@ const sections = ref([
   },
   {
     title: "AI Podcast Host",
-    image: "/AI_podcast_host.webp",
+    image: "/ai_podcast_host.webp",
     content:
       "Concept: A virtual podcast host that can moderate discussions, interview real or virtual guests, and adapt content based on listener feedback. Potential: Consistent content delivery without the need for a human host. Can cater to niche topics and adapt to changing listener preferences.",
   },
