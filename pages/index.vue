@@ -1,5 +1,6 @@
 <template>
   <div>
+    <IndexBanner class="my-10 mt-20" />
     <IndexCycle class="my-5" />
     <SoftwareTypography class="my-5 mb-20" />
     <IndexCompanies class="my-10" />

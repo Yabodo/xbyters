@@ -41,8 +41,10 @@
 <script setup lang="ts">
 import { ref } from "vue";
 const activeSection = ref(null);
-const title = ref("Software Lifecycle Unveiled");
-const content = ref("From Ideation to Iteration: A Journey Through Creation");
+const title = ref("IT Project Lifecycle");
+const content = ref(
+  "Perfection comes from experience. This is how you are guided from Ideation to Iteration: A Journey Through Creation."
+);
 const sections = ref([
   {
     title: "Design",

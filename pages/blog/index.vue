@@ -135,4 +135,5 @@ useHead({
       </article>
     </div>
   </div>
+  <BlogCat />
 </template>
