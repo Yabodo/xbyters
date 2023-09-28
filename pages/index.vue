@@ -4,7 +4,6 @@
     <IndexCycle class="my-5" />
     <IndexCompanies class="my-10" />
     <IndexCta class="my-10 pt-5 h-96 flex flex-col justify-center" />
-    <IndexPopular class="my-10" />
   </div>
 </template>
 <script setup>
