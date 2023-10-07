@@ -36,7 +36,10 @@
   b,
   h4,
   h3,
-  li {
+  li,
+  blockquote,
+  dd,
+  dt {
     @apply text-gray-700 dark:text-slate-200 text-base;
   }
 
