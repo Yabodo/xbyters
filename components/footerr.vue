@@ -382,7 +382,7 @@
       class="flex flex-col-reverse justify-between pt-5 pb-10 border-t lg:flex-row"
     >
       <p class="text-sm text-gray-600 dark:text-gray-400">
-        © Copyright 2023 CHOICISM INVESTMENTS OÜ. All rights reserved.
+        © Copyright 2024 CHOICISM INVESTMENTS OÜ. All rights reserved.
       </p>
       <div
         class="flex flex-col mb-3 space-y-2 lg:mb-0 sm:space-y-0 sm:space-x-5 sm:flex-row"

@@ -1,6 +1,6 @@
 <template>
   <div class="mx-auto max-w-screen-xl px-4 flex">
-    <section class="body-font">
+    <section class="body-font mx-auto">
       <div class="container px-5 py-24 mx-auto">
         <div class="flex flex-col">
           <div class="flex flex-wrap sm:flex-row flex-col py-6 mb-12">

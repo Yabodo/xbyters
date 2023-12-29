@@ -72,12 +72,12 @@
     </section>
 
     <section class="my-8 text-center">
-      <p class="text-2xl">
+      <p class="text-2xl mb-4">
         With Xbyters, You're Not Just Another Business. You're THE Business.
       </p>
-      <button class="mt-4 bg-blue-600 text-white px-8 py-2 rounded">
+      <NuxtLink to="/contact" class="bg-blue-600 text-white px-8 py-2 rounded">
         Contact Us
-      </button>
+      </NuxtLink>
     </section>
   </div>
 </template>

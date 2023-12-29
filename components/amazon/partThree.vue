@@ -19,11 +19,12 @@
         Join the Xbyters family and take your business to new heights.
       </p>
       <div class="text-center">
-        <button
+        <NuxtLink
+          to="/contact"
           class="bg-blue-600 text-white px-8 py-2 rounded hover:bg-blue-700"
         >
           Contact Us Now
-        </button>
+        </NuxtLink>
       </div>
     </section>
 

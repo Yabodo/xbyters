@@ -3,6 +3,7 @@
     <IndexBanner class="my-10 mt-20" />
     <IndexCycle class="my-5" />
     <IndexCompanies class="my-10" />
+    <IndexTestimonials class="my-10" />
     <IndexCta class="my-10 pt-5 h-96 flex flex-col justify-center" />
   </div>
 </template>
