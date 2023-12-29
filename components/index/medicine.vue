@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="wrapper">
     <div class="b">
       <div class="b--top bg-gray-100 dark:bg-gray-800">
         <div
@@ -133,14 +133,9 @@
 <style scoped>
 @import url("https://rsms.me/inter/inter.css");
 
-.container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-width: 500px;
+.wrapper {
+  min-width: 420px;
   min-height: 500px;
-  padding: 20px;
-  padding-top: 0px;
   margin-top: -40px;
 }
 
