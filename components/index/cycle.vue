@@ -50,19 +50,19 @@ const sections = ref([
     title: "Design",
     image: "/design.webp",
     content:
-      "Design involves Market Research, Product Conceptualization, User Experience (UX) Design, and User Interface (UI) Design.",
+      "Our design services include Market Research, Product Conceptualization, User Experience (UX) Design, and User Interface (UI) Design.",
   },
   {
     title: "Development",
     image: "/development.webp",
     content:
-      "Development encompasses Planning, Development Process, Quality Assurance, and Deployment.",
+      "Our development encompasses Planning, Development Process, Quality Assurance, and Deployment.",
   },
   {
     title: "Marketing",
     image: "/marketing.webp",
     content:
-      "Marketing includes Branding, Content Marketing, Social Media Marketing, Paid Advertising, SEO, Public Relations, and Customer Feedback & Support.",
+      "Our marketing services include Branding, Content Marketing, Social Media Marketing, Paid Advertising, SEO, Public Relations, and Customer Feedback & Support.",
   },
 ]);
 </script>
