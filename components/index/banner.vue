@@ -1,5 +1,7 @@
 <template>
-  <div class="mx-auto max-w-screen-xl px-4 flex flex-col lg:flex-row">
+  <div
+    class="mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 flex flex-col lg:flex-row"
+  >
     <IndexMedicine
       class="mx-auto mx-0 lg:mx-10 hidden sm:flex justify-center items-center"
     />

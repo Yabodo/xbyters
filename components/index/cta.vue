@@ -7,8 +7,8 @@
         </a>
 
         <p class="max-w-md mx-auto mt-4 text-gray-500 dark:text-gray-400">
-          Website development, e-commerce platforms, web management, logo
-          design, and digital marketing.
+          Website development, e-commerce platforms, web management, security
+          audits, and digital strategy.
         </p>
 
         <div
