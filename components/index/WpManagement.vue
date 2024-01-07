@@ -5,7 +5,7 @@
     <div class="flex flex-col lg:flex-row -mx-4">
       <div class="w-full lg:w-1/2 px-4">
         <img
-          src="web_upkeep.webp"
+          src="/web_upkeep.webp"
           alt="WordPress Maintenance"
           class="w-full h-auto"
         />

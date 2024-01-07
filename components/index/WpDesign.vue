@@ -35,7 +35,7 @@
       </div>
       <div class="w-full lg:w-1/2 px-4">
         <img
-          src="web_design.webp"
+          src="/web_design.webp"
           alt="WordPress Maintenance"
           class="w-full h-auto"
         />
