@@ -375,7 +375,7 @@
         <p class="mr-1 text-gray-800 dark:text-gray-200">Corporate Websites</p>
         <p class="mr-1 text-gray-800 dark:text-gray-200">Web Applications</p>
         <p class="mr-1 text-gray-800 dark:text-gray-200">Shopify Stores</p>
-        <p class="mr-1 text-gray-800 dark:text-gray-200">Custom GPT Chatbots</p>
+        <p class="mr-1 text-gray-800 dark:text-gray-200">Business Software</p>
       </div>
     </div>
     <div
