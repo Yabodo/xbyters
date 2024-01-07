@@ -8,6 +8,7 @@
           src="/web_upkeep.webp"
           alt="WordPress Maintenance"
           class="w-full h-auto"
+          loading="lazy"
         />
       </div>
       <div class="w-full text-justify lg:text-left lg:w-1/2 px-4">
