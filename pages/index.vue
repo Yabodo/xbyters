@@ -21,8 +21,10 @@ useHead({
       name: "description",
       content:
         "We understand that every business is unique, and cookie-cutter solutions won't suffice. We take a personalized approach, tailoring our services to meet your specific needs and objectives. Our team will work closely with you to understand your requirements and create a customized solution that aligns with your brand identity and goals.",
-      "og:image": "/og-image.png",
     },
   ],
+});
+useSeoMeta({
+  ogImage: "/og-image.png",
 });
 </script>
