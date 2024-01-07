@@ -11,7 +11,7 @@
         />
       </div>
       <div class="w-full text-justify lg:text-left lg:w-1/2 px-4">
-        <h1 class="text-4xl font-bold my-4 mt-24 lg:mt-4">
+        <h1 class="text-4xl font-bold my-4 mt-24 lg:mt-4 text-left">
           <span class="text-blue-600 dark:text-blue-500 italic font-extrabold"
             >EFFICIENT</span
           >
