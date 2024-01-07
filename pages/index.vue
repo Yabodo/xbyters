@@ -25,6 +25,6 @@ useHead({
   ],
 });
 useSeoMeta({
-  ogImage: "/og-image.png",
+  ogImage: "https://xbyters.com/og-image.png",
 });
 </script>
