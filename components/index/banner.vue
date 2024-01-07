@@ -7,7 +7,7 @@
     />
     <div class="flex flex-col justify-center">
       <h1
-        class="text-center lg:text-left mt-8 lg:mt-0 mb-8 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white"
+        class="text-center lg:text-left mt-8 sm:mt-24 lg:mt-4 mb-8 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white"
       >
         Get to growth with
         <span class="text-blue-600 dark:text-blue-500">the World's #1</span>
