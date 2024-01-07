@@ -4,7 +4,7 @@
   >
     <div class="flex flex-col-reverse lg:flex-row -mx-4">
       <div class="w-full text-justify lg:text-left lg:w-1/2 px-4">
-        <h1 class="text-4xl font-bold my-4">
+        <h1 class="text-4xl font-bold my-4 mt-24 lg:mt-4">
           Make a
           <span class="text-blue-600 dark:text-blue-500 italic font-extrabold"
             >GREAT</span
@@ -33,11 +33,11 @@
           business growth.
         </p>
       </div>
-      <div class="w-full md:w-1/2 px-4">
+      <div class="w-full lg:w-1/2 px-4">
         <img
-          src="placeholder-image.jpg"
+          src="web_design.webp"
           alt="WordPress Maintenance"
-          class="w-full h-auto rounded-lg shadow-lg"
+          class="w-full h-auto"
         />
       </div>
     </div>

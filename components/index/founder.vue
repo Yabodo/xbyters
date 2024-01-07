@@ -3,11 +3,7 @@
     class="px-4 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20"
   >
     <div class="flex flex-col">
-      <h2
-        class="mx-auto md:mx-0 font-sans text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-none"
-      >
-        Founder's pledge
-      </h2>
+      <h1 class="text-4xl font-bold my-4">Founder's Pledge</h1>
       <span class="mx-auto md:mx-0">
         <span
           class="inline-block md:hidden w-1 h-1 rounded-full bg-blue-500 mx-1"

@@ -2,7 +2,7 @@
   <div
     class="mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8"
   >
-    <h1 class="text-2xl font-bold mb-4 text-center">We have worked with</h1>
+    <h1 class="text-4xl font-bold my-4 text-center">We have worked with</h1>
     <div
       class="grid grid-cols-2 gap-8 text-gray-500 sm:gap-12 md:grid-cols-3 lg:grid-cols-6 dark:text-gray-400 bg-white rounded-xl p-4"
     >

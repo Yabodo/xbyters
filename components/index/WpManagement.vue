@@ -1,18 +1,21 @@
 <template>
   <div
-    class="px-4 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20"
+    class="px-4 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 py-20"
   >
     <div class="flex flex-col lg:flex-row -mx-4">
-      <div class="w-full md:w-1/2 px-4">
+      <div class="w-full lg:w-1/2 px-4">
         <img
-          src="placeholder-image.jpg"
+          src="web_upkeep.webp"
           alt="WordPress Maintenance"
-          class="w-full h-auto rounded-lg shadow-lg"
+          class="w-full h-auto"
         />
       </div>
       <div class="w-full text-justify lg:text-left lg:w-1/2 px-4">
-        <h1 class="text-2xl font-bold my-4">
-          Efficient WordPress Maintenance Services
+        <h1 class="text-4xl font-bold my-4 mt-24 lg:mt-4">
+          <span class="text-blue-600 dark:text-blue-500 italic font-extrabold"
+            >EFFICIENT</span
+          >
+          WordPress Maintenance Services
         </h1>
         <p class="text-lg my-2">
           Currently, WordPress stands as the dominant choice for businesses in
@@ -35,7 +38,7 @@
           ensuring ready resources and flexible scheduling to promptly address
           urgent issues. Our non-emergency support for all managed maintenance
           clients is available Monday to Friday. For emergencies, we extend our
-          availability beyond these hours.
+          availability beyond these times.
         </p>
       </div>
     </div>
