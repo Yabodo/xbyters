@@ -12,7 +12,19 @@
   }
 
   body {
-    @apply bg-slate-100 dark:bg-slate-900 dark:bg-gradient-to-r dark:from-zinc-900 dark:via-transparent dark:to-stone-900 bg-gradient-to-r from-sky-100 via-transparent to-blue-100;
+    @apply bg-slate-100 dark:bg-slate-900 dark:bg-gradient-to-r dark:from-zinc-900 dark:via-transparent dark:to-stone-900;
+    &:before {
+      @apply absolute; /* Use absolute positioning by default */
+      background: transparent no-repeat scroll top; /* Default background */
+      content: "";
+      height: 2308px;
+      left: 0;
+      top: 0;
+      width: 100%;
+      z-index: -1;
+
+      @apply dark:bg-[url('/home.webp')] dark:bg-no-repeat dark:bg-top dark:bg-transparent; /* Background in dark mode */
+    }
   }
 
   h1 {

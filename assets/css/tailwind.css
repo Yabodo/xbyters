@@ -9,7 +9,18 @@
     @apply inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700;
   }
   body {
-    @apply bg-slate-100 dark:bg-slate-900 dark:bg-gradient-to-r dark:from-zinc-900 dark:via-transparent dark:to-stone-900 bg-gradient-to-r from-sky-100 via-transparent to-blue-100;
+    @apply bg-slate-100 dark:bg-slate-900 dark:bg-gradient-to-r dark:from-zinc-900 dark:via-transparent dark:to-stone-900;
+  }
+  body:before {
+    @apply absolute; /* Use absolute positioning by default */
+    background: transparent no-repeat scroll top; /* Default background */
+    content: "";
+    height: 2308px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    z-index: -1;
+    @apply dark:bg-[url("/home.webp")] dark:bg-no-repeat dark:bg-top dark:bg-transparent; /* Background in dark mode */
   }
   h1 {
     @apply text-2xl font-extrabold tracking-tight text-slate-900 dark:text-slate-200 md:text-3xl;
@@ -24,11 +35,14 @@
     @apply bg-slate-100 dark:bg-slate-900;
   }
   p,
-ol,
-b,
-h4,
-h3,
-li {
+  ol,
+  b,
+  h4,
+  h3,
+  li,
+  blockquote,
+  dd,
+  dt {
     @apply text-gray-700 dark:text-slate-200 text-base;
   }
   ul {
