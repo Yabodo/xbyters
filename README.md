@@ -1,63 +1,63 @@
-# Nuxt 3 Minimal Starter
+# xByters Digital Agency
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+xByters is a comprehensive digital agency platform offering web development, AI solutions, and e-commerce services. Built with Nuxt 3, the platform provides a modern, responsive interface for clients to explore services and connect with the agency.
 
-## Setup
+## 🚀 Features
 
-Make sure to install the dependencies:
+- Modern, responsive design
+- Dark mode support
+- Blog system with markdown support
+- Service sections:
+  - Web Development
+  - AI Solutions
+  - E-commerce Solutions
+- Contact system
+- Testimonials
+- Dynamic content management
 
-```bash
-# npm
-npm install
+## 🛠️ Tech Stack
 
-# pnpm
-pnpm install
+- Nuxt 3
+- Vue 3
+- TailwindCSS
+- TypeScript
+- Markdown for blog content
 
-# yarn
+## 📦 Installation
+
+1. Clone the repository:
+
+git clone https://github.com/yourusername/xbyters.git
+cd xbyters
+
+2. Install dependencies:
+
 yarn install
-```
 
-## Development Server
+3. Start development server:
 
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
 yarn dev
-```
 
-## Production
+The application will be available at `http://localhost:3000`
 
-Build the application for production:
+## 🚀 Production
 
-```bash
-# npm
-npm run build
+To build the application for production:
 
-# pnpm
-pnpm run build
-
-# yarn
 yarn build
-```
 
-Locally preview production build:
+## 📝 License
 
-```bash
-# npm
-npm run preview
+This project is released under the Unlicense. See the LICENSE file for more details.
 
-# pnpm
-pnpm run preview
+## 🤝 Contributing
 
-# yarn
-yarn preview
-```
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## 📧 Contact
+
+For inquiries and support, please contact:
+- Website: [xbyters.com](https://xbyters.com)
+- Support: Yabodo @Github
+
+Made with ❤️ by xByters team
