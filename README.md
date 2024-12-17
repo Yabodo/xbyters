@@ -27,7 +27,7 @@ xByters is a comprehensive digital agency platform offering web development, AI 
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/xbyters.git
+git clone https://github.com/yabodo/xbyters.git
 cd xbyters
 
 2. Install dependencies:
